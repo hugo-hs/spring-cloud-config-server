@@ -8,5 +8,5 @@ spring:
         encrypt:
             enabled: false
         git:
-          uri: https://github.com/hugo-hs/microservice-repo/
+          uri: https://github.com/hugo-hs/spring-cloud-microservice-repo/
           search-paths: fornecedor, loja, transportador
